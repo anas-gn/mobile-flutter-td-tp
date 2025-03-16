@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 # https://dart.dev/guides/libraries/private-files
 # Created by `dart pub`
 .dart_tool/
+=======
+**/*.dart
+**/*.js
+**/*.json
+**/*.yaml
+**/*.yml
+**/*.lock
+**/*.dart_tool
+>>>>>>> 8af18ac0416b2b7dfcdce4a3929f5fa327c166f3
